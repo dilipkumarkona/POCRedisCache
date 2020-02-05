@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCRedisCacheMiddleWare", "POCRedisCacheMiddleWare.csproj", "{C02D97C8-C86D-4CAC-98E1-1F356597B55C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocAPI", "..\PocAPI\PocAPI.csproj", "{02F343C7-A9B5-49E0-9D63-3059F272789C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02D97C8-C86D-4CAC-98E1-1F356597B55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02D97C8-C86D-4CAC-98E1-1F356597B55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02D97C8-C86D-4CAC-98E1-1F356597B55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02D97C8-C86D-4CAC-98E1-1F356597B55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F343C7-A9B5-49E0-9D63-3059F272789C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F343C7-A9B5-49E0-9D63-3059F272789C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F343C7-A9B5-49E0-9D63-3059F272789C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F343C7-A9B5-49E0-9D63-3059F272789C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91A3508-AEB6-41B7-9021-66D9E78B966F}
+	EndGlobalSection
+EndGlobal
